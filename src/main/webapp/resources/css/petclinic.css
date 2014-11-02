@@ -19,3 +19,8 @@ input[type="text"] {
 .form-horizontal .control-label {
     text-align: left;
 }
+
+.devmode {
+	 padding: 10px;
+	 border-radius: 15px;
+}
